@@ -14,14 +14,14 @@ http://localhost:3000/docs
 ```
 Infos do Dispositivo:
 
-Nome do dispositivo	lab3-28
-Processador	Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz   2.90 GHz
-SSD NVME 228 Gb
-RAM instalada	16,0 GB (utilizável: 15,8 GB)
-ID do dispositivo	EC89F8DE-57DA-4F41-9937-B9BBCD8BC8F6
-ID do Produto	00330-54339-01165-AAOEM
-Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64
-Caneta e toque	Nenhuma entrada à caneta ou por toque disponível para este vídeo
+Nome do dispositivo	lab3-28.
+Processador	Intel(R) Core(TM) i3-10100T CPU @ 3.00GHz   2.90 GHz.
+SSD NVME 228 Gb.
+RAM instalada	16,0 GB (utilizável: 15,8 GB).
+ID do dispositivo	EC89F8DE-57DA-4F41-9937-B9BBCD8BC8F6.
+ID do Produto	00330-54339-01165-AAOEM.
+Tipo de sistema	Sistema operacional de 64 bits, processador baseado em x64.
+Caneta e toque	Nenhuma entrada à caneta ou por toque disponível para este vídeo.
 
 
 Teste de carga:
